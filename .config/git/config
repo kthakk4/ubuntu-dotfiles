@@ -1,0 +1,10 @@
+[user]
+	name = Kushan Thakkar
+	email = <>
+[core]
+	editor = nvim
+	pager = less
+[init]
+	defaultBranch = master
+[alias]
+	tree = log --all --graph --decorate --pretty=oneline --abbrev-commit

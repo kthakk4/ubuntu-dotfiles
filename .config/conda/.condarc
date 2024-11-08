@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+auto_update_conda: false
+channel_priority: strict
+create_default_packages:
+  - nvim
+  - fzf
